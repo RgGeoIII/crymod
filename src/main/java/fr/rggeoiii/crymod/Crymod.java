@@ -9,7 +9,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = Constant.modid, name = Constant.name, version = Constant.version, acceptedMinecraftVersions = "[1.8.9]")
+@Mod(modid = Constant.modid, name = Constant.name, version = Constant.version, acceptedMinecraftVersions = "[1.12.2]")
 public class Crymod {
 
     @Mod.Instance
