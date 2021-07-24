@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "crymod",
+        "name": "Crymod",
+        "description": "zebi",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
